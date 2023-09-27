@@ -1,6 +1,6 @@
 # Python_Detect_RedDot_Mark_On_Glass_Raspberry Pi
 Python : Nhận diện chấm đỏ đánh dấu trên cạnh tấm kính (Phân biệt hướng kính)
-Sử dụng trên Raspberry Pi 3 1Gb
+Sử dụng trên Raspberry Pi 3 1Gb  + Camera ELP + PLC 
 
 ![2023_08_15_09_38_IMG_6379](https://github.com/sanguyeenx96/Python_Detect_RedDot_Mark_On_Glass/assets/103011257/9f1a248f-8827-4a4e-a7f3-9377bed6640b)
 
